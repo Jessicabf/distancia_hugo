@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Práctica Jessica Barriga</title>
-    <link>https://Jessicabf/.github.io/practica/es/</link>
+    <link>https://jessicabf.github.io/docs/es/</link>
     <description>Recent content on Práctica Jessica Barriga</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 11 Nov 2021 19:39:33 +0200</lastBuildDate>
     
-	<atom:link href="https://Jessicabf/.github.io/practica/es/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jessicabf.github.io/docs/es/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Formación</title>
-      <link>https://Jessicabf/.github.io/practica/es/tareas/paginas/formacion/</link>
+      <link>https://jessicabf.github.io/docs/es/tareas/paginas/formacion/</link>
       <pubDate>Thu, 11 Nov 2021 19:39:33 +0200</pubDate>
       
-      <guid>https://Jessicabf/.github.io/practica/es/tareas/paginas/formacion/</guid>
+      <guid>https://jessicabf.github.io/docs/es/tareas/paginas/formacion/</guid>
       <description>Formación Oficial Escuela Universitaria de Turismo Diplomatura, Turismo · (2006 - 2009)
 Master electronic Business Administration (MeBA), Marketing online · (2016 - 2017)
 CPIFP Los Enlaces Grado superior Desarrollo Aplicaciones Web, Informática · (2019 - 2022)
@@ -27,11 +27,20 @@ Promoción turística local e información al visitante 350h</description>
     </item>
     
     <item>
-      <title>Experiencia</title>
-      <link>https://Jessicabf/.github.io/practica/es/tareas/paginas/experiencia/</link>
+      <title>Post 1</title>
+      <link>https://jessicabf.github.io/docs/es/posts/post1/</link>
       <pubDate>Thu, 11 Nov 2021 19:39:33 +0200</pubDate>
       
-      <guid>https://Jessicabf/.github.io/practica/es/tareas/paginas/experiencia/</guid>
+      <guid>https://jessicabf.github.io/docs/es/posts/post1/</guid>
+      <description>Post 1 The standard Lorem Ipsum passage, used since the 1500s &amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Experiencia</title>
+      <link>https://jessicabf.github.io/docs/es/tareas/paginas/experiencia/</link>
+      <pubDate>Thu, 11 Nov 2021 19:39:33 +0200</pubDate>
+      
+      <guid>https://jessicabf.github.io/docs/es/tareas/paginas/experiencia/</guid>
       <description>Centraldereservas.com 8 años 7 meses XML Optimization &amp;amp; Business Development enero de 2017 - Actualidad (4 años 11 meses)
 El Rey de la Cerveza Marketing noviembre de 2016 - Actualidad (5 años 1 mes)
 Centraldereservas.com Business Development febrero de 2014 - enero de 2017 (3 años)
@@ -40,38 +49,56 @@ Centraldereservas.com Revenue/Travel agent junio de 2011 - octubre de 2012 (1 a�
     </item>
     
     <item>
-      <title>Contacto</title>
-      <link>https://Jessicabf/.github.io/practica/es/tareas/paginas/contacto/</link>
+      <title>Post 2</title>
+      <link>https://jessicabf.github.io/docs/es/posts/post2/</link>
       <pubDate>Thu, 11 Nov 2021 19:39:33 +0200</pubDate>
       
-      <guid>https://Jessicabf/.github.io/practica/es/tareas/paginas/contacto/</guid>
+      <guid>https://jessicabf.github.io/docs/es/posts/post2/</guid>
+      <description>Post 2 Lorem Ipsum &amp;ldquo;Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit&amp;hellip;&amp;rdquo; &amp;ldquo;There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain&amp;hellip;&amp;rdquo; What is Lorem Ipsum? Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>https://jessicabf.github.io/docs/es/tareas/paginas/contacto/</link>
+      <pubDate>Thu, 11 Nov 2021 19:39:33 +0200</pubDate>
+      
+      <guid>https://jessicabf.github.io/docs/es/tareas/paginas/contacto/</guid>
       <description> Email: jessicabarrigafrontelo@gmail.com Teléfono: 654989290 Linkedin    Descargar   CV.pdf (62 KB)    </description>
     </item>
     
     <item>
+      <title>Post 3</title>
+      <link>https://jessicabf.github.io/docs/es/posts/post3/</link>
+      <pubDate>Thu, 11 Nov 2021 19:39:33 +0200</pubDate>
+      
+      <guid>https://jessicabf.github.io/docs/es/posts/post3/</guid>
+      <description>Post 3 Where can I get some? There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&amp;rsquo;t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn&amp;rsquo;t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.</description>
+    </item>
+    
+    <item>
       <title>Obtener Json</title>
-      <link>https://Jessicabf/.github.io/practica/es/sitiosestaticos/datos/</link>
+      <link>https://jessicabf.github.io/docs/es/sitiosestaticos/datos/</link>
       <pubDate>Thu, 21 Oct 2021 13:31:19 +0200</pubDate>
       
-      <guid>https://Jessicabf/.github.io/practica/es/sitiosestaticos/datos/</guid>
+      <guid>https://jessicabf.github.io/docs/es/sitiosestaticos/datos/</guid>
       <description>Listado de canales de tv </description>
     </item>
     
     <item>
       <title>Mi carrusel</title>
-      <link>https://Jessicabf/.github.io/practica/es/sitiosestaticos/carrusel/</link>
+      <link>https://jessicabf.github.io/docs/es/sitiosestaticos/carrusel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://Jessicabf/.github.io/practica/es/sitiosestaticos/carrusel/</guid>
+      <guid>https://jessicabf.github.io/docs/es/sitiosestaticos/carrusel/</guid>
       <description>CARRUSEL </description>
     </item>
     
     <item>
       <title>Mi plantilla</title>
-      <link>https://Jessicabf/.github.io/practica/es/sitiosestaticos/plantilla/</link>
+      <link>https://jessicabf.github.io/docs/es/sitiosestaticos/plantilla/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://Jessicabf/.github.io/practica/es/sitiosestaticos/plantilla/</guid>
+      <guid>https://jessicabf.github.io/docs/es/sitiosestaticos/plantilla/</guid>
       <description>Uso de una plantilla En esta página veremos el uso de una plantilla</description>
     </item>
     
