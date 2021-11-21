@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tasks on Jessica Barriga excercise</title>
-    <link>https://example.com/tareas/</link>
+    <link>https://github.com/Jessicabf/docs/tareas/</link>
     <description>Recent content in Tasks on Jessica Barriga excercise</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 11 Nov 2021 19:39:33 +0200</lastBuildDate>
     
-	<atom:link href="https://example.com/tareas/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github.com/Jessicabf/docs/tareas/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

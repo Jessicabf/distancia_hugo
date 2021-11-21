@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sobre mí on Práctica Jessica Barriga</title>
-    <link>https://example.com/es/tareas/paginas/</link>
+    <link>https://github.com/Jessicabf/docs/es/tareas/paginas/</link>
     <description>Recent content in Sobre mí on Práctica Jessica Barriga</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 11 Nov 2021 19:39:33 +0200</lastBuildDate>
     
-	<atom:link href="https://example.com/es/tareas/paginas/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github.com/Jessicabf/docs/es/tareas/paginas/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Formación</title>
-      <link>https://example.com/es/tareas/paginas/formacion/</link>
+      <link>https://github.com/Jessicabf/docs/es/tareas/paginas/formacion/</link>
       <pubDate>Thu, 11 Nov 2021 19:39:33 +0200</pubDate>
       
-      <guid>https://example.com/es/tareas/paginas/formacion/</guid>
+      <guid>https://github.com/Jessicabf/docs/es/tareas/paginas/formacion/</guid>
       <description>Formación Oficial Escuela Universitaria de Turismo Diplomatura, Turismo · (2006 - 2009)
 Master electronic Business Administration (MeBA), Marketing online · (2016 - 2017)
 CPIFP Los Enlaces Grado superior Desarrollo Aplicaciones Web, Informática · (2019 - 2022)
@@ -28,10 +28,10 @@ Promoción turística local e información al visitante 350h</description>
     
     <item>
       <title>Experiencia</title>
-      <link>https://example.com/es/tareas/paginas/experiencia/</link>
+      <link>https://github.com/Jessicabf/docs/es/tareas/paginas/experiencia/</link>
       <pubDate>Thu, 11 Nov 2021 19:39:33 +0200</pubDate>
       
-      <guid>https://example.com/es/tareas/paginas/experiencia/</guid>
+      <guid>https://github.com/Jessicabf/docs/es/tareas/paginas/experiencia/</guid>
       <description>Centraldereservas.com 8 años 7 meses XML Optimization &amp;amp; Business Development enero de 2017 - Actualidad (4 años 11 meses)
 El Rey de la Cerveza Marketing noviembre de 2016 - Actualidad (5 años 1 mes)
 Centraldereservas.com Business Development febrero de 2014 - enero de 2017 (3 años)
@@ -41,10 +41,10 @@ Centraldereservas.com Revenue/Travel agent junio de 2011 - octubre de 2012 (1 a�
     
     <item>
       <title>Contacto</title>
-      <link>https://example.com/es/tareas/paginas/contacto/</link>
+      <link>https://github.com/Jessicabf/docs/es/tareas/paginas/contacto/</link>
       <pubDate>Thu, 11 Nov 2021 19:39:33 +0200</pubDate>
       
-      <guid>https://example.com/es/tareas/paginas/contacto/</guid>
+      <guid>https://github.com/Jessicabf/docs/es/tareas/paginas/contacto/</guid>
       <description> Email: jessicabarrigafrontelo@gmail.com Teléfono: 654989290 Linkedin    Descargar   CV.pdf (62 KB)    </description>
     </item>
     

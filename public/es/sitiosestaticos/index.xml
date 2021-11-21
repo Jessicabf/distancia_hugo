@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SitiosEstaticos on Práctica Jessica Barriga</title>
-    <link>https://example.com/es/sitiosestaticos/</link>
+    <link>https://github.com/Jessicabf/docs/es/sitiosestaticos/</link>
     <description>Recent content in SitiosEstaticos on Práctica Jessica Barriga</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 21 Oct 2021 13:31:19 +0200</lastBuildDate>
     
-	<atom:link href="https://example.com/es/sitiosestaticos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github.com/Jessicabf/docs/es/sitiosestaticos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Obtener Json</title>
-      <link>https://example.com/es/sitiosestaticos/datos/</link>
+      <link>https://github.com/Jessicabf/docs/es/sitiosestaticos/datos/</link>
       <pubDate>Thu, 21 Oct 2021 13:31:19 +0200</pubDate>
       
-      <guid>https://example.com/es/sitiosestaticos/datos/</guid>
+      <guid>https://github.com/Jessicabf/docs/es/sitiosestaticos/datos/</guid>
       <description>Listado de canales de tv </description>
     </item>
     
     <item>
       <title>Mi carrusel</title>
-      <link>https://example.com/es/sitiosestaticos/carrusel/</link>
+      <link>https://github.com/Jessicabf/docs/es/sitiosestaticos/carrusel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/es/sitiosestaticos/carrusel/</guid>
+      <guid>https://github.com/Jessicabf/docs/es/sitiosestaticos/carrusel/</guid>
       <description>CARRUSEL </description>
     </item>
     
     <item>
       <title>Mi plantilla</title>
-      <link>https://example.com/es/sitiosestaticos/plantilla/</link>
+      <link>https://github.com/Jessicabf/docs/es/sitiosestaticos/plantilla/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/es/sitiosestaticos/plantilla/</guid>
+      <guid>https://github.com/Jessicabf/docs/es/sitiosestaticos/plantilla/</guid>
       <description>Uso de una plantilla En esta página veremos el uso de una plantilla</description>
     </item>
     
