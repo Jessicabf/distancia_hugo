@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Práctica Jessica Barriga</title>
-    <link>http://example.org/es/posts/</link>
+    <link>https://jessicabf.github.io/distancia_hugo/es/posts/</link>
     <description>Recent content in Posts on Práctica Jessica Barriga</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 11 Nov 2021 19:39:33 +0200</lastBuildDate>
     
-	<atom:link href="http://example.org/es/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jessicabf.github.io/distancia_hugo/es/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Post 1</title>
-      <link>http://example.org/es/posts/post1/</link>
+      <link>https://jessicabf.github.io/distancia_hugo/es/posts/post1/</link>
       <pubDate>Thu, 11 Nov 2021 19:39:33 +0200</pubDate>
       
-      <guid>http://example.org/es/posts/post1/</guid>
+      <guid>https://jessicabf.github.io/distancia_hugo/es/posts/post1/</guid>
       <description>Post 1 The standard Lorem Ipsum passage, used since the 1500s &amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>Post 2</title>
-      <link>http://example.org/es/posts/post2/</link>
+      <link>https://jessicabf.github.io/distancia_hugo/es/posts/post2/</link>
       <pubDate>Thu, 11 Nov 2021 19:39:33 +0200</pubDate>
       
-      <guid>http://example.org/es/posts/post2/</guid>
+      <guid>https://jessicabf.github.io/distancia_hugo/es/posts/post2/</guid>
       <description>Post 2 Lorem Ipsum &amp;ldquo;Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit&amp;hellip;&amp;rdquo; &amp;ldquo;There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain&amp;hellip;&amp;rdquo; What is Lorem Ipsum? Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</description>
     </item>
     
     <item>
       <title>Post 3</title>
-      <link>http://example.org/es/posts/post3/</link>
+      <link>https://jessicabf.github.io/distancia_hugo/es/posts/post3/</link>
       <pubDate>Thu, 11 Nov 2021 19:39:33 +0200</pubDate>
       
-      <guid>http://example.org/es/posts/post3/</guid>
+      <guid>https://jessicabf.github.io/distancia_hugo/es/posts/post3/</guid>
       <description>Post 3 Where can I get some? There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&amp;rsquo;t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn&amp;rsquo;t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.</description>
     </item>
     

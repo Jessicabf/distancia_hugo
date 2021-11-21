@@ -3,160 +3,160 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/tareas/</loc>
+    <loc>https://jessicabf.github.io/distancia_hugo/tareas/</loc>
     <lastmod>2021-11-11T19:39:33+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/tareas/"
+                href="https://jessicabf.github.io/distancia_hugo/es/tareas/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/tareas/"
+                href="https://jessicabf.github.io/distancia_hugo/fr/tareas/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tareas/"
+                href="https://jessicabf.github.io/distancia_hugo/tareas/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/tareas/paginas/formacion/</loc>
+    <loc>https://jessicabf.github.io/distancia_hugo/tareas/paginas/formacion/</loc>
     <lastmod>2021-11-11T19:39:33+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/tareas/paginas/formacion/"
+                href="https://jessicabf.github.io/distancia_hugo/es/tareas/paginas/formacion/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/tareas/paginas/formacion/"
+                href="https://jessicabf.github.io/distancia_hugo/fr/tareas/paginas/formacion/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tareas/paginas/formacion/"
+                href="https://jessicabf.github.io/distancia_hugo/tareas/paginas/formacion/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/tareas/paginas/experiencia/</loc>
+    <loc>https://jessicabf.github.io/distancia_hugo/tareas/paginas/experiencia/</loc>
     <lastmod>2021-11-11T19:39:33+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/tareas/paginas/experiencia/"
+                href="https://jessicabf.github.io/distancia_hugo/es/tareas/paginas/experiencia/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/tareas/paginas/experiencia/"
+                href="https://jessicabf.github.io/distancia_hugo/fr/tareas/paginas/experiencia/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tareas/paginas/experiencia/"
+                href="https://jessicabf.github.io/distancia_hugo/tareas/paginas/experiencia/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/tareas/paginas/contacto/</loc>
+    <loc>https://jessicabf.github.io/distancia_hugo/tareas/paginas/contacto/</loc>
     <lastmod>2021-11-11T19:39:33+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/tareas/paginas/contacto/"
+                href="https://jessicabf.github.io/distancia_hugo/es/tareas/paginas/contacto/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/tareas/paginas/contacto/"
+                href="https://jessicabf.github.io/distancia_hugo/fr/tareas/paginas/contacto/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tareas/paginas/contacto/"
+                href="https://jessicabf.github.io/distancia_hugo/tareas/paginas/contacto/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/tareas/paginas/</loc>
+    <loc>https://jessicabf.github.io/distancia_hugo/tareas/paginas/</loc>
     <lastmod>2021-11-11T19:39:33+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/tareas/paginas/"
+                href="https://jessicabf.github.io/distancia_hugo/es/tareas/paginas/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/tareas/paginas/"
+                href="https://jessicabf.github.io/distancia_hugo/fr/tareas/paginas/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tareas/paginas/"
+                href="https://jessicabf.github.io/distancia_hugo/tareas/paginas/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://jessicabf.github.io/distancia_hugo/</loc>
     <lastmod>2021-11-11T19:39:33+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/"
+                href="https://jessicabf.github.io/distancia_hugo/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/"
+                href="https://jessicabf.github.io/distancia_hugo/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/"
+                href="https://jessicabf.github.io/distancia_hugo/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://jessicabf.github.io/distancia_hugo/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/categories/"
+                href="https://jessicabf.github.io/distancia_hugo/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/categories/"
+                href="https://jessicabf.github.io/distancia_hugo/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/categories/"
+                href="https://jessicabf.github.io/distancia_hugo/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://jessicabf.github.io/distancia_hugo/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/tags/"
+                href="https://jessicabf.github.io/distancia_hugo/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/tags/"
+                href="https://jessicabf.github.io/distancia_hugo/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tags/"
+                href="https://jessicabf.github.io/distancia_hugo/tags/"
                 />
   </url>
   

@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Práctica Jessica Barriga</title>
-    <link>http://example.org/es/categories/</link>
+    <link>https://jessicabf.github.io/distancia_hugo/es/categories/</link>
     <description>Recent content in Categories on Práctica Jessica Barriga</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="http://example.org/es/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jessicabf.github.io/distancia_hugo/es/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
