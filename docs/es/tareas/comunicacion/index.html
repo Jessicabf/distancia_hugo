@@ -9,7 +9,7 @@
 
     <link rel="icon" href="/images/favicon.png" type="image/png">
 
-    <title>Sitios estáticos :: Práctica Jessica Barriga</title>
+    <title>Comunicación cliente servidor :: Práctica Jessica Barriga</title>
 
     
     <link href="/css/nucleus.css?1637521201" rel="stylesheet">
@@ -37,7 +37,7 @@
     </style>
     
   </head>
-  <body class="" data-url="/es/sitiosestaticos/">
+  <body class="" data-url="/es/tareas/comunicacion/">
     <nav id="sidebar" class="">
 
 
@@ -93,7 +93,7 @@
   
     
     <li data-nav-id="/es/tareas/" title="Tareas" class="dd-item
-        
+        parent
         
         
         ">
@@ -121,7 +121,7 @@
  
   
     
-      <li data-nav-id="/es/tareas/comunicacion/" title="Comunicación cliente servidor" class="dd-item ">
+      <li data-nav-id="/es/tareas/comunicacion/" title="Comunicación cliente servidor" class="dd-item active">
         <a href="/es/tareas/comunicacion/">
         Comunicación cliente servidor
         
@@ -367,8 +367,8 @@
   
     
     <li data-nav-id="/es/sitiosestaticos/" title="Sitios estáticos" class="dd-item
-        parent
-        active
+        
+        
         
         ">
       <a href="/es/sitiosestaticos/">
@@ -498,7 +498,7 @@
                   
                     
                     
-                      <option id="es" value="http://example.org/es/sitiosestaticos/" selected>Español</option>
+                      <option id="es" value="http://example.org/es/tareas/comunicacion/" selected>Español</option>
                     
                   
               
@@ -550,6 +550,8 @@
                         </a>
                     </span>
                   
+                  <span id="toc-menu"><i class="fas fa-list-alt"></i></span>
+                  
                   <span class="links">
                  
                  
@@ -560,7 +562,13 @@
             
           
           
-            <a href='/es/'>Práctica Jessica Barriga</a> > Sitios estáticos
+            
+            
+          
+          
+            <a href='/es/'>Práctica Jessica Barriga</a> > <a href='/es/tareas/'>Tareas</a> > Comunicación cliente servidor
+          
+        
           
         
           
@@ -569,6 +577,17 @@
                   </span>
                 </div>
                 
+                    <div class="progress">
+    <div class="wrapper">
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#proceso-de-carga-de-una-página-web">Proceso de carga de una página web</a></li>
+  </ul>
+</nav>
+    </div>
+</div>
+
+                
               </div>
             </div>
             
@@ -576,28 +595,50 @@
         
         </div>
         
-          <div id="chapter">
-        
         <div id="body-inner">
+          
+            <h1>
+              
+              Comunicación cliente servidor
+            </h1>
           
 
         
 
 
+<h2 id="proceso-de-carga-de-una-página-web">Proceso de carga de una página web</h2>
+<p><img src="/images/pc.png" alt="Foto de perfil"></p>
+<p>En está página vamos a describir el proceso de carga desde que un usuario teclea una url en el navegador hasta que recibe la información de ese sitio web.</p>
 
-	<h1 id="sitios-estáticos">Sitios estáticos</h1>
-<h2 id="aquí-dentro-están-el-carrusel-los-datos-tv-y-la-plantilla">Aquí dentro están el carrusel, los datos tv y la plantilla.</h2>
+<div class="mermaid" align="left">
+graph LR;
+  Cliente-->|solicitud| Servidor;
+</div>
 
 
+<div class="mermaid" align="left">
+graph LR;
+  Servidor-->|respuesta| Cliente;
+</div>
+
+<p>LA web se compone de :</p>
+<p><strong>Servidor</strong>: donde están los datos y la lógica de la aplicación.
+<strong>Cliente</strong>: donde se encuentra el usuario final con su navegador.
+<strong>Red</strong>: los protocolos de comunicación http o https.</p>
+<p>Un cliente (un navegador web) solicita un recurso a un servidor web a través de una interfaz, usando un protocolo.</p>
+<p>De esa url, dependiendo del protocolo (https por ejemplo), sabremos por qué puerto va a ir la solicitud.
+Después consultará al DNS para que nos diga la IP de esa máquina, y una vez que tenga la IP hará la solicitud al puerto.</p>
+<p><img src="/images/comunicacion1.jpeg" alt="Modelo cliente-servidor"></p>
+<p>Cuando llega la solicitud al servidor y localiza el recurso a mostrar, hará lo que tenga que hacer. Por ejemplo: el módulo correspondiente para ejecutar el lenguaje de programación, la conexión con la base de datos, la conexión con el webservice&hellip;</p>
+<p>COn toda esta información, responderá al cliente en el puerto que esté abierto.</p>
+<p>EL cliente, en su máquina será quien gestione el css y ejecutará la parte javascript.</p>
+<p>Cuando tenga toda la información se la mostrará al navegador (cliente).</p>
 
 
-
-<footer class=" footline" >
+<footer class="footline">
 	
 </footer>
 
-        
-            </div> 
         
         </div>
         
@@ -629,8 +670,6 @@
             
                 
                     
-                        
-                        
                     
                 
                 
@@ -646,6 +685,7 @@
             
             
                 
+                    
                     
                 
                 
@@ -663,88 +703,8 @@
             
                 
                     
-                
-                
-
-                    
-                    
-                    
-
-                    
                         
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
                         
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-            
-        
-                    
-                        
-            
-            
-                
                     
                 
                 
@@ -810,6 +770,24 @@
             
                 
                     
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
                     
                 
                 
@@ -824,8 +802,69 @@
             
                 
                     
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
                         
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
                         
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
                     
                 
                 
@@ -882,10 +921,10 @@
 	 
 	 
 		
-			<a class="nav nav-prev" href="/es/posts/post3/" title="Post 3"> <i class="fa fa-chevron-left"></i></a>
+			<a class="nav nav-prev" href="/es/tareas/" title="Tareas"> <i class="fa fa-chevron-left"></i></a>
 		
 		
-			<a class="nav nav-next" href="/es/sitiosestaticos/datos/" title="Obtener Json" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+			<a class="nav nav-next" href="/es/tareas/paginas/" title="Sobre mí" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
 		
 	
     </div>
@@ -917,3 +956,4 @@
 
   </body>
 </html>
+

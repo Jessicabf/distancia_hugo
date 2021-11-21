@@ -1,4 +1,4 @@
-baseURL = 'https://jessicabf.github.io/distancia_hugo/'
+baseURL = 'http://example.org/'
 title = 'Práctica Jessica Barriga'
 theme = 'learn'
 chapter = true

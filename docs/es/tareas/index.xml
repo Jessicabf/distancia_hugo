@@ -2,13 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tareas on Práctica Jessica Barriga</title>
-    <link>https://jessicabf.github.io/distancia_hugo/es/tareas/</link>
+    <link>http://example.org/es/tareas/</link>
     <description>Recent content in Tareas on Práctica Jessica Barriga</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 11 Nov 2021 19:39:33 +0200</lastBuildDate>
     
-	<atom:link href="https://jessicabf.github.io/distancia_hugo/es/tareas/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/es/tareas/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Comunicación cliente servidor</title>
+      <link>http://example.org/es/tareas/comunicacion/</link>
+      <pubDate>Thu, 11 Nov 2021 19:39:33 +0200</pubDate>
+      
+      <guid>http://example.org/es/tareas/comunicacion/</guid>
+      <description>Proceso de carga de una página web En está página vamos a describir el proceso de carga desde que un usuario teclea una url en el navegador hasta que recibe la información de ese sitio web.
+graph LR; Cliente--|solicitud| Servidor;  graph LR; Servidor--|respuesta| Cliente;  LA web se compone de :
+Servidor: donde están los datos y la lógica de la aplicación. Cliente: donde se encuentra el usuario final con su navegador.</description>
+    </item>
+    
+    <item>
+      <title>Vocabulario</title>
+      <link>http://example.org/es/tareas/vocabulario/</link>
+      <pubDate>Thu, 11 Nov 2021 19:39:33 +0200</pubDate>
+      
+      <guid>http://example.org/es/tareas/vocabulario/</guid>
+      <description>Conocimiento técnico. Compilador Javascript:  Babel https://babeljs.io/ WebPack https://webpack.js.org/  Framework Javascript:  Prototype http://prototypejs.org/ Vue https://vuejs.org/  Lenguaje de programación cliente  JavaScript https://developer.mozilla.org/es/docs/Web/JavaScript TypeScript https://www.typescriptlang.org/ Polyfill https://polyfill.io/v3/  Lenguaje de programación servidor  PHP https://www.php.net/manual/es/intro-whatis.php  Frameworks de php - Laravel. - CodeIgniter. - Symfony. - Zend. - Phalcon. - CakePHP. - Yii. - FuelPHP.  Frameworks de Python  DJango https://www.djangoproject.com/  Sirven para dar formato/diseño  Css https://developer.</description>
+    </item>
     
   </channel>
 </rss>

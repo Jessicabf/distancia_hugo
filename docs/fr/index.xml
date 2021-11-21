@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Exercice de jessica</title>
-    <link>https://jessicabf.github.io/distancia_hugo/fr/</link>
+    <link>http://example.org/fr/</link>
     <description>Recent content on Exercice de jessica</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 11 Nov 2021 19:39:33 +0200</lastBuildDate>
     
-	<atom:link href="https://jessicabf.github.io/distancia_hugo/fr/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/fr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Entraînement</title>
-      <link>https://jessicabf.github.io/distancia_hugo/fr/tareas/paginas/formacion/</link>
+      <link>http://example.org/fr/tareas/paginas/formacion/</link>
       <pubDate>Thu, 11 Nov 2021 19:39:33 +0200</pubDate>
       
-      <guid>https://jessicabf.github.io/distancia_hugo/fr/tareas/paginas/formacion/</guid>
+      <guid>http://example.org/fr/tareas/paginas/formacion/</guid>
       <description>Formation officielle École universitaire de tourisme Diplôme, Tourisme · (2006 - 2009)
 Master Electronic Business Administration (MeBA), Marketing en ligne · (2016 - 2017)
 Liens CPIFP Diplôme supérieur Développement d&amp;rsquo;applications Web, Informatique · (2019 - 2022)
@@ -28,10 +28,10 @@ Promotion du tourisme local et information des visiteurs 350h</description>
     
     <item>
       <title>Vivre</title>
-      <link>https://jessicabf.github.io/distancia_hugo/fr/tareas/paginas/experiencia/</link>
+      <link>http://example.org/fr/tareas/paginas/experiencia/</link>
       <pubDate>Thu, 11 Nov 2021 19:39:33 +0200</pubDate>
       
-      <guid>https://jessicabf.github.io/distancia_hugo/fr/tareas/paginas/experiencia/</guid>
+      <guid>http://example.org/fr/tareas/paginas/experiencia/</guid>
       <description>** Centraldereservas.com ** 8 ans 7 mois Optimisation XML et développement commercial Janvier 2017 - Aujourd&amp;rsquo;hui (4 ans 11 mois)
 ** Le Roi de la Bière ** Commercialisation Novembre 2016 - Aujourd&amp;rsquo;hui (5 ans 1 mois)
 ** Centraldereservas.com ** Développement des affaires février 2014 - janvier 2017 (3 ans)
@@ -41,10 +41,10 @@ Promotion du tourisme local et information des visiteurs 350h</description>
     
     <item>
       <title>Contact</title>
-      <link>https://jessicabf.github.io/distancia_hugo/fr/tareas/paginas/contacto/</link>
+      <link>http://example.org/fr/tareas/paginas/contacto/</link>
       <pubDate>Thu, 11 Nov 2021 19:39:33 +0200</pubDate>
       
-      <guid>https://jessicabf.github.io/distancia_hugo/fr/tareas/paginas/contacto/</guid>
+      <guid>http://example.org/fr/tareas/paginas/contacto/</guid>
       <description> Email: jessicabarrigafrontelo@gmail.com Telephone: 654989290 Linkedin    Telecharger   CV.pdf (62 ko)    </description>
     </item>
     

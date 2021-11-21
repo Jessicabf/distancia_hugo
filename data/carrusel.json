@@ -1,7 +1,7 @@
 [
     {
         "name":"imagen 1",
-        "image":"static/images/carrusel/img1.jpg"  
+        "image":"images/carrusel/img1.jpg"  
     },
     {
         "name":"imagen 2",
