@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sur moi on Exercice de jessica</title>
+    <link>https://example.com/fr/tareas/paginas/</link>
+    <description>Recent content in Sur moi on Exercice de jessica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 11 Nov 2021 19:39:33 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.com/fr/tareas/paginas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Entraînement</title>
+      <link>https://example.com/fr/tareas/paginas/formacion/</link>
+      <pubDate>Thu, 11 Nov 2021 19:39:33 +0200</pubDate>
+      
+      <guid>https://example.com/fr/tareas/paginas/formacion/</guid>
+      <description>Formation officielle École universitaire de tourisme Diplôme, Tourisme · (2006 - 2009)
+Master Electronic Business Administration (MeBA), Marketing en ligne · (2016 - 2017)
+Liens CPIFP Diplôme supérieur Développement d&amp;rsquo;applications Web, Informatique · (2019 - 2022)
+Cours Création, Programmation et Web Design avec HTML5 et CSS3 210H
+Conception de produits numériques : sites Web et applications 60h
+Stratégie marketing et plan d&amp;rsquo;affaires 220h
+Marketing et commerce extérieur 180h
+Promotion du tourisme local et information des visiteurs 350h</description>
+    </item>
+    
+    <item>
+      <title>Vivre</title>
+      <link>https://example.com/fr/tareas/paginas/experiencia/</link>
+      <pubDate>Thu, 11 Nov 2021 19:39:33 +0200</pubDate>
+      
+      <guid>https://example.com/fr/tareas/paginas/experiencia/</guid>
+      <description>** Centraldereservas.com ** 8 ans 7 mois Optimisation XML et développement commercial Janvier 2017 - Aujourd&amp;rsquo;hui (4 ans 11 mois)
+** Le Roi de la Bière ** Commercialisation Novembre 2016 - Aujourd&amp;rsquo;hui (5 ans 1 mois)
+** Centraldereservas.com ** Développement des affaires février 2014 - janvier 2017 (3 ans)
+** Centraldereservas.com ** Responsable des revenus mai 2013 - février 2014 (10 mois)
+** Centraldereservas.com ** Revenu / Agent de voyages juin 2011 - octobre 2012 (1 an 5 mois)</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.com/fr/tareas/paginas/contacto/</link>
+      <pubDate>Thu, 11 Nov 2021 19:39:33 +0200</pubDate>
+      
+      <guid>https://example.com/fr/tareas/paginas/contacto/</guid>
+      <description> Email: jessicabarrigafrontelo@gmail.com Telephone: 654989290 Linkedin    Telecharger   CV.pdf (62 ko)    </description>
+    </item>
+    
+  </channel>
+</rss>

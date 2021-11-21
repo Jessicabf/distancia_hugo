@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tareas on Práctica Jessica Barriga</title>
+    <link>https://example.com/es/tareas/</link>
+    <description>Recent content in Tareas on Práctica Jessica Barriga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 11 Nov 2021 19:39:33 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.com/es/tareas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

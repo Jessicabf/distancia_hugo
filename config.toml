@@ -1,0 +1,53 @@
+baseURL = 'https://github.com/Jessicabf/docs'
+
+title = 'Práctica Jessica Barriga'
+theme = 'learn'
+chapter = true
+[params]
+  themeVariant = "learn" 
+
+
+defaultContentLanguage = "es"
+defaultContentLanguageInSubdir = true
+
+[Languages]
+    [Languages.es]
+        title = 'Práctica Jessica Barriga'
+        weight = 1
+        contentDir = 'content/es'
+        languageName = 'Español'
+        landingPageName = "Práctica Jessica Barriga"
+
+    [Languages.en]
+        title = 'Jessica Barriga excercise'
+        weight = 2
+        languageName = 'English'
+        contentDir = 'content/en'
+        landingPageName = "Jessica Barriga's excercise"
+
+    [Languages.fr]
+        title = 'Exercice de jessica'
+        weight = 3
+        languageName = 'Français'
+        contentDir = 'content/fr'
+        landingPageName = "Exercice de jessica"
+
+
+[[menu.shortcuts]]
+name="<i class='fas fa-star'></i> Formación"
+identified=""
+url="tareas/paginas/formacion/"
+weight=1
+
+[[menu.shortcuts]]
+name="<i class='fas fa-globe'></i> Experiencia"
+identified=""
+url="tareas/paginas/experiencia/"
+weight=2
+
+[[menu.shortcuts]]
+name="<i class='fas fa-heart'></i> Contacto"
+identified=""
+url="tareas/paginas/contacto/"
+weight=3
+
